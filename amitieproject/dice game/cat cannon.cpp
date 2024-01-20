@@ -1,7 +1,7 @@
-#include <iostream>
+#include <iostream>// including cout and cin so you can print to the screen and read input from users
 
 
-using namespace std;
+using namespace std; //you now dont need to use std::cout but you can just use cout
 
 int main()
 {
