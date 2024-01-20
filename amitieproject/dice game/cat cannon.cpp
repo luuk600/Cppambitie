@@ -15,9 +15,9 @@ int main()
 
     cout << "type r to reload and s to shoot." << endl;
     cin >> shoot;
-    while (magfull) 
+    while (magfull)
     {
-        if (mag < 1) 
+        if (mag < 1 && ammo < 1)
         {
             cout << "you have shot all your cats good job" << endl;
             magfull = false;
@@ -64,6 +64,10 @@ int main()
             ammofilll = false;
             cout << "you need to press r" << endl;
             cin >> shoot;
+            if (shoot != 'r')
+            {
+                cout << " " << endl;
+            }
         }
     }
 }
