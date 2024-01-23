@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ambitie", "Ambitie\Ambitie.vcxproj", "{B64D86FB-AC99-4D34-87F2-566DE41E23FA}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dice game", "dice game\dice game.vcxproj", "{F93DB797-61E1-4900-A40E-7DAACE6DFA8A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cat cannon", "dice game\dice game.vcxproj", "{F93DB797-61E1-4900-A40E-7DAACE6DFA8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vcxproj", "{E88DE802-13FC-4807-BC3F-16568A7E643E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "more dice", "more dice\more dice.vcxproj", "{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,22 @@ Global
 		{F93DB797-61E1-4900-A40E-7DAACE6DFA8A}.Release|x64.Build.0 = Release|x64
 		{F93DB797-61E1-4900-A40E-7DAACE6DFA8A}.Release|x86.ActiveCfg = Release|Win32
 		{F93DB797-61E1-4900-A40E-7DAACE6DFA8A}.Release|x86.Build.0 = Release|Win32
+		{E88DE802-13FC-4807-BC3F-16568A7E643E}.Debug|x64.ActiveCfg = Debug|x64
+		{E88DE802-13FC-4807-BC3F-16568A7E643E}.Debug|x64.Build.0 = Debug|x64
+		{E88DE802-13FC-4807-BC3F-16568A7E643E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E88DE802-13FC-4807-BC3F-16568A7E643E}.Debug|x86.Build.0 = Debug|Win32
+		{E88DE802-13FC-4807-BC3F-16568A7E643E}.Release|x64.ActiveCfg = Release|x64
+		{E88DE802-13FC-4807-BC3F-16568A7E643E}.Release|x64.Build.0 = Release|x64
+		{E88DE802-13FC-4807-BC3F-16568A7E643E}.Release|x86.ActiveCfg = Release|Win32
+		{E88DE802-13FC-4807-BC3F-16568A7E643E}.Release|x86.Build.0 = Release|Win32
+		{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}.Debug|x64.ActiveCfg = Debug|x64
+		{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}.Debug|x64.Build.0 = Debug|x64
+		{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}.Debug|x86.Build.0 = Debug|Win32
+		{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}.Release|x64.ActiveCfg = Release|x64
+		{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}.Release|x64.Build.0 = Release|x64
+		{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}.Release|x86.ActiveCfg = Release|Win32
+		{D20F9AD9-6F21-464A-BA40-6AABFDB1B9A4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
